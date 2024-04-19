@@ -1,0 +1,7 @@
+main.c:61:6:clock_init	4	static
+main.c:71:6:IRQ_EXTI9_callback	4	static
+main.c:82:5:TASKA	24	static
+main.c:87:5:TASKB	24	static
+main.c:93:6:SVC_Handler	4	static,ignoring_inline_asm
+main.c:125:6:MainOs	8	static,ignoring_inline_asm
+main.c:170:5:main	32	static
